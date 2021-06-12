@@ -226,3 +226,16 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+# Time Estimate
+
+Number and name of feature: ________________________________
+<br>
+Estimate of time needed to complete: _____
+<br>
+Start time: _____
+<br>
+Finish time: _____
+<br>
+Actual time needed to complete: _____
+<br>
