@@ -42,29 +42,29 @@ class CardsFooter extends React.Component {
           <Container className="container-lg">
             <Row>
               <Col className="mb-5 mb-md-0" md="6">
-                <Card className="card-lift--hover shadow border-0">
+               {/*  <Card className="card-lift--hover shadow border-0">
                   <Link to="/landing-page">
                     <CardImg
                       alt="..."
                       src={landing}
                     />
                   </Link>
-                </Card>
+                </Card> */}
               </Col>
               <Col className="mb-5 mb-lg-0" md="6">
-                <Card className="card-lift--hover shadow border-0">
+                {/* <Card className="card-lift--hover shadow border-0">
                   <Link to="/profile-page">
                     <CardImg
                       alt="..."
                       src={profile}
                     />
                   </Link>
-                </Card>
+                </Card> */}
               </Col>
             </Row>
           </Container>
           <Container>
-            <Row className="row-grid align-items-center my-md">
+            <Row className="row-grid align-items-center my-md pt-5">
               <Col lg="6">
                 <h3 className="text-primary font-weight-light mb-2">
                   Thank you for supporting us!
@@ -137,31 +137,19 @@ class CardsFooter extends React.Component {
               <Col md="6">
                 <div className="copyright">
                   © {new Date().getFullYear()}{" "}
-                  <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
-                    target="_blank"
-                  >
-                    Creative Tim
-                  </a>
+                  Rawan Alakhras
                   .
                 </div>
               </Col>
               <Col md="6">
                 <Nav className="nav-footer justify-content-end">
-                  <NavItem>
-                    <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
-                      target="_blank"
-                    >
-                      Creative Tim
-                    </NavLink>
-                  </NavItem>
+                  
                   <NavItem>
                     <NavLink
                       href="https://www.creative-tim.com/presentation?ref=adsr-footer"
                       target="_blank"
                     >
-                      About Us
+                      profile
                     </NavLink>
                   </NavItem>
                   <NavItem>
@@ -169,17 +157,10 @@ class CardsFooter extends React.Component {
                       href="http://blog.creative-tim.com?ref=adsr-footer"
                       target="_blank"
                     >
-                      Blog
+                      portfolio
                     </NavLink>
                   </NavItem>
-                  <NavItem>
-                    <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md"
-                      target="_blank"
-                    >
-                      MIT License
-                    </NavLink>
-                  </NavItem>
+                 
                 </Nav>
               </Col>
             </Row>

@@ -1,3 +1,53 @@
+# Time Estimate
+
+Number and name of feature: #1
+<br>
+Estimate of time needed to complete: 30 minute
+<br>
+Start time: 3:00pm
+<br>
+Finish time: 3:40pm
+<br>
+Actual time needed to complete: 40 minute
+<br>
+
+Number and name of feature: #2
+<br>
+Estimate of time needed to complete: 20 minute
+<br>
+Start time: 3:40pm
+<br>
+Finish time: 4:10pm
+<br>
+Actual time needed to complete: 30 minute
+<br>
+
+Number and name of feature: #3
+<br>
+Estimate of time needed to complete: 30 minute
+<br>
+Start time: 5:00pm
+<br>
+Finish time: 5:35pm
+<br>
+Actual time needed to complete: 35 minute
+<br>
+
+Number and name of feature: #4
+<br>
+Estimate of time needed to complete: 30 minute
+<br>
+Start time: 6:11pm
+<br>
+Finish time: 5:35pm
+<br>
+Actual time needed to complete: 35 minute
+<br>
+
+
+## live URL (here)[https://competent-bose-542204.netlify.app/]
+
+
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
@@ -227,15 +277,3 @@ Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
-# Time Estimate
-
-Number and name of feature: ________________________________
-<br>
-Estimate of time needed to complete: _____
-<br>
-Start time: _____
-<br>
-Finish time: _____
-<br>
-Actual time needed to complete: _____
-<br>
